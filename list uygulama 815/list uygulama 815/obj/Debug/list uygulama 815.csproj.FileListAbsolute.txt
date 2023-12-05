@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\bin\Debug\list uygulama 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\bin\Debug\list uygulama 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\bin\Debug\list uygulama 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list_uygulama_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list_uygulama_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\list uygulama 815\list uygulama 815\obj\Debug\list uygulama 815.pdb
